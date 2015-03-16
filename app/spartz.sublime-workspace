@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ci",
+				"cities"
+			],
+			[
+				"isint",
+				"is_integer"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"city",
+				"city"
+			],
+			[
+				"js",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/SpartzAPI/app/controllers/Spartz",
+		"/Applications/MAMP/htdocs/SpartzAPI/app/database/dbsript.sql",
+		"/Applications/MAMP/htdocs/SpartzAPI/app/controllers/CityController.php",
+		"/Applications/MAMP/htdocs/laratest/app/models/city.php",
+		"/Applications/MAMP/htdocs/laratest/app/controllers/SampleController.php",
+		"/Applications/MAMP/htdocs/laratest/app/routes.php",
+		"/Applications/MAMP/htdocs/laratest/app/controllers/UserController.php",
+		"/Applications/MAMP/htdocs/laratest/app/models/User.php",
+		"/Applications/MAMP/htdocs/laratest/app/controllers/CityController.php",
+		"/Applications/MAMP/htdocs/laratest/app/controllers/StateController.php",
+		"/Applications/MAMP/htdocs/city.php",
+		"/Applications/MAMP/htdocs/user.php",
+		"/Applications/MAMP/htdocs/laratest/app/models/state.php",
+		"/Applications/MAMP/htdocs/laratest/app/models/city_user.php",
+		"/Applications/MAMP/htdocs/laratest/app/filters.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/htdocs/laratest/app/errors.php",
+		"/Applications/MAMP/htdocs/laracon-todo-api-master/app/config/database.php",
+		"/Applications/MAMP/htdocs/State.php",
+		"/Users/amandaspindel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/amandaspindel/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/amandaspindel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/laratest/app/config/session.php",
+		"/Applications/MAMP/htdocs/laratest/app/views/user/edit.blade.php",
+		"/Applications/MAMP/htdocs/laratest/app/config/app.php",
+		"/Applications/MAMP/htdocs/laratest/app/views/user:edit.blade.php",
+		"/Applications/MAMP/htdocs/laratest/app/config/database.php",
+		"/Applications/MAMP/htdocs/laratest/app/config/mail.php",
+		"/Applications/MAMP/htdocs/laravel_test/app/User.php",
+		"/Applications/MAMP/htdocs/API.class.php",
+		"/Applications/MAMP/htdocs/laravel_test/config/app.php",
+		"/Applications/MAMP/htdocs/laravel_test/config/database.php",
+		"/Applications/MAMP/htdocs/laravel_test/app/cities.php",
+		"/Applications/MAMP/htdocs/laravel_test/app/CitiesUsersVisited.php",
+		"/Applications/MAMP/htdocs/laravel_test/config/auth.php",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/laravel_test/app/Http/routes.php",
+		"/Applications/MAMP/htdocs/laravel_test/resources/views/welcome.blade.php",
+		"/Applications/MAMP/htdocs/laravel_test/app/routes.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MILES_PER_DEGREE_LAT",
+			"getCity",
+			"citiesu",
+			"getUserID",
+			"204",
+			"numeric",
+			"todo",
+			"AddCityVisit",
+			"dump",
+			"RADIUS_OF_EARTH",
+			"getNearbyCities",
+			"getNearbyCitiesv",
+			"static",
+			"htm",
+			"}));",
+			"flo",
+			"fet",
+			"listVisitedCities",
+			"echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}
